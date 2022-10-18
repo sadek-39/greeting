@@ -1,15 +1,17 @@
 {
-    "name": "sadek/greeting",
-    "authors": [
-        {
-            "name": "Sadek Sultan",
-            "email": "sadeksltn@gmail.com"
-        }
-    ],
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "Greeting\\": "src"
-        }
+  "name": "sadek/greeting",
+  "authors": [
+    {
+      "name": "Sadek Sultan",
+      "email": "sadeksltn@gmail.com"
     }
+  ],
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Greeting\\": "src"
+    }
+  }
 }
