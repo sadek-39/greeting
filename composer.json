@@ -1,0 +1,14 @@
+{
+    "name": "sadek/greeting",
+    "authors": [
+        {
+            "name": "Sadek Sultan",
+            "email": "sadeksltn@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "Greeting\\": "src"
+    }
+
+}
